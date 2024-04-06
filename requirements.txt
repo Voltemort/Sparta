@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m 'First Commit'
+
+git remote add origin "YOUR_REPOSITORY_URL"
+
+git branch -M main
+
+git push -u origin main
